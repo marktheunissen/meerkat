@@ -5,8 +5,8 @@ Color theme for Sublime Text 2 &amp; TextMate.
 
 The pallette is available on [ColourLovers][0].
 
-Screenshots
------------
+Screenshot
+----------
 
 The font is [Inconsolata LGC][1] which includes italics support.
 
