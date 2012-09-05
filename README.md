@@ -6,7 +6,6 @@ Color theme for Sublime Text 2 &amp; TextMate.
 The pallette is available on [ColourLovers][0].
 
 ![Meerkat](https://raw.github.com/marktheunissen/meerkat/master/img/colourlovers-meerkat.png)
-[ColourLovers][0]
 
 Screenshot
 ----------
