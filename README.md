@@ -11,6 +11,12 @@ Screenshots
 ![PHP in Meerkat](https://raw.github.com/marktheunissen/meerkat/master/img/php-meerkat.png)
 ![Python in Meerkat](https://raw.github.com/marktheunissen/meerkat/master/img/python-meerkat.png)
 
+Installation
+------------
+
+For Sublime Text 2 on a Mac, copy into ~/Library/Application Support/Sublime Text 2/Packages/User 
+and enable through the preferences.
+
 License
 -------
 
