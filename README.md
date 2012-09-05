@@ -8,8 +8,9 @@ The pallette is available on [ColourLovers][0].
 Screenshots
 -----------
 
+The font is [Inconsolata LGC][1] which includes italics support.
+
 ![PHP in Meerkat](https://raw.github.com/marktheunissen/meerkat/master/img/php-meerkat.png)
-![Python in Meerkat](https://raw.github.com/marktheunissen/meerkat/master/img/python-meerkat.png)
 
 Installation
 ------------
@@ -24,3 +25,4 @@ License
 MIT (EXPAT) LICENCE
 
 [0]: http://www.colourlovers.com/palette/2390834/Meerkat
+[1]: https://github.com/MihailJP/Inconsolata-LGC
