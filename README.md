@@ -20,6 +20,11 @@ Installation
 For Sublime Text 2 on a Mac, copy into ~/Library/Application Support/Sublime Text 2/Packages/User 
 and enable through the preferences.
 
+TODO
+----
+
+Use this awesome looking [editor](http://thechangelog.com/tmtheme-editor-color-scheme-editor/) when editing it in future.
+
 License
 -------
 
