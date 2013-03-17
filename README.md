@@ -10,14 +10,14 @@ The pallette is available on [ColourLovers][0].
 Screenshot
 ----------
 
-The font is [Inconsolata LGC][1] which includes italics support.
+The font is [Inconsolata LGC][1] which includes italics support. You can find it in the /fonts directory.
 
 ![PHP in Meerkat](https://raw.github.com/marktheunissen/meerkat/master/img/php-meerkat.png)
 
 Installation
 ------------
 
-For Sublime Text 2 on a Mac, copy into ~/Library/Application Support/Sublime Text 2/Packages/User 
+For Sublime Text 2 on a Mac, copy into ~/Library/Application Support/Sublime Text 2/Packages/User
 and enable through the preferences.
 
 TODO
