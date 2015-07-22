@@ -80,8 +80,8 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <!-- Purple #BA55D3 -->
-        <string>#BA55D3</string>
+        <!-- Purple #DE8FF2 -->
+        <string>#DE8FF2</string>
       </dict>
     </dict>
     <dict>
@@ -427,6 +427,17 @@
       <dict>
         <key>foreground</key>
         <string>#967EFB</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Language Variable</string>
+      <key>scope</key>
+      <string>variable.language, variable.parameter.function.language</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#7FBBB4</string>
       </dict>
     </dict>
   </array>
